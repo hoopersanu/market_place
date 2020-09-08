@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gCSS-E7r6WGsy_yMZW1iSgHaEK%26pid%3DApi&f=1');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: new 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.label {
+    font-size: 19px;
+    margin-top: 70px;
+    font-weight: normal;
+}
+
+.form-control {
+    background: rgba(255, 255, 255, 0.2);
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid white;
+}
+
+.action {
+    color: white;
+}
+
+.input-color {
+    color: white;
+}
+
+img {
+    max-width: 50px;
+    max-height: 150px;
+    padding-top: 15px;
+}
